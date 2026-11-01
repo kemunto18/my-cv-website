@@ -1,0 +1,76 @@
+
+<!Doctype.html>
+<html>
+<head>
+  <title>my petsonal cv </title>
+ </head>
+  <body bgcolor="white">
+
+ <center>
+ <h1>my personal cv</h1>
+ <h2>vyone kemunto</h2>
+ <img src="myphoto.jpg" width="1280" length="720">
+ <p>
+ <b>Email:</b><br>vyone03@gmail.com<br>
+ <b>phone:</b><br>0745049296</br>
+ <b>location:</b><br>Kisii, Kenya</br>
+ </p>
+ 
+
+ <hr>
+ <a href="<#home">HOME</a>
+ <a href=<#about">ABOUT ME</a>
+ <a href=<#education">EDUCATION</a>
+ <a href=<#skills">SKILLS</a>
+ <a href=<#experience">EXPERIENCE</a>
+ <a href=<#interests">INTERESTS</a>
+ <a href=<#conacts">CONTACTS</a>
+ </center>
+ </hr>
+
+ <hr>
+ <h2 id="home">HOME</h2>
+ 
+ <p>
+ Welcome to my personal CV and website.This website providews education about my skills, experience, interests, education and contacts details
+
+ </p>
+
+ <h2 id="about">ABOUT ME</h2>
+ 
+ <p>
+ My name is Vyone Kemunto and am a student at Kisii University pursing a course in Information Techonology.Am nterested in computers and programming.My goal is to run new IT skills.
+
+ </p>
+ <h2 id="education">EDUCATION</h2>
+ <table boards="1" cellpadding="10">
+
+ <tr>
+ <th>INSTITUTION</th>
+ <th>QUALIFICATION</<th>
+ <th>YEAR</th>
+ </tr>
+
+ <tr>
+ <td>Kisii Universty</td>
+ <td>Bachelor of Information Technology</td>
+ <td>current</td>
+ </tr>
+ 
+ <tr>
+ <td>Sironga girls</td>
+ <td>Kcse</tr>
+ <td>2024</td>
+ </tr>
+ </table><h2 id="skills"MY SKILLS</h2>
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
